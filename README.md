@@ -19,6 +19,8 @@ This is my current Data Science portfolio. By now it consists of guided projects
 
 [Predicting car prices using the Machine Learning](https://github.com/alekseikondratenko/Predicting-car-prices-using-machine-learning)
 
+[Predicting bike rentals using multiple ML algorithms](https://github.com/alekseikondratenko/Predicting-bike-rentals-using-multiple-machine-learning-algorithms)
+
 #### Algorithms from the scratch:
 
 [Writing Naive Bayes classifier from the scratch](https://github.com/alekseikondratenko/Writing-Naive-Bayes-classifier-from-scratch)
