@@ -1,5 +1,5 @@
 # Data-Science-portfolio
-This is my current Data Science portfolio. By now it consists of guided projects from the "Data Scientist in Python path" from Dataquest, which I have recently finished. Even though the data and the strategy to analyze it was provided by Dataquest, I tried to personalise each project by getting additional insights of the given data, plotting unique and self-explainable graphs, or investigating different Machine Learning algorithms.
+This is my current Data Science portfolio. By now it consists of guided projects that I developed during "Data Scientist in Python path" from Dataquest, which I have recently finished. I tried to personalise each project by getting additional insights of the given data, plotting unique and self-explainable graphs, or investigating different Machine Learning algorithms.
 
 ### My Data Science projects:
 
