@@ -1,5 +1,5 @@
-# Data-Science-portfolio
-This is a set of simple Data Science experiments that consists of guided projects that I developed during "Data Scientist in Python path" from Dataquest, which I have recently finished. I tried to personalise each project by getting additional insights of the given data, plotting unique and self-explainable graphs, or investigating different Machine Learning algorithms.
+# Data-Science-projects (simple)
+This is a set of simple Data Science experiments that consists of guided projects that I developed during "Data Scientist in Python path" from Dataquest, which I have recently finished. I tried to personalise each project by getting additional insights into the given data, plotting unique and self-explainable graphs, or investigating different Machine Learning algorithms.
 
 ### My Data Science projects:
 
